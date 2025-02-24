@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #FFF;
+    font-family: "Fredoka", 'Poppins', sans-serif;
+}
+.navigation-bar{
+    display: flex;
+}
+.Item-Options{
+    display: flex;
+    gap: 30px;
+}
+.Account-search{
+    display: flex;
+    gap: 30px;
+}
+.nav-menu{
+    display: flex;
+}
